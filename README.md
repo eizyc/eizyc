@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eizyc&label=Profile%20views&color=0e75b6&style=flat" alt="eizyc" /> </p>
 
-- 👨‍💻 All of my projects are available at [eizyc.github.io/](eizyc.github.io/)
+- 👨‍💻 All of my projects are available at [eizyc.github.io](https://eizyc.github.io)
 
 - 📫 How to reach me **eizyc66@gamil.com**
 
