@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eizy</h1>
-<h3 align="center">A Fullstack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eizyc&label=Profile%20views&color=0e75b6&style=flat" alt="eizyc" /> </p>
 
